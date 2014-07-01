@@ -5,7 +5,7 @@ Welcome to MCArcades issue tracker, to create a issue, please navigate to the ri
 From there, please create a issue. 
 
 We have a few guidelines we would like you to follow, when using the issue tracker.
-  * Use the apporiate tags
+  * Use the appropriate tags
   * Use full-sentences, and speak in english.
   * If your issue contains a major exploit / bug then please privately, contact emails are at the bottom of this page.
   * Please check the issues first, to avoid posting duplicates, on the same bug.
